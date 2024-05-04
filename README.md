@@ -1,4 +1,8 @@
 # Resume-Screening-with-Machine-Learning-Job-Recommendations-Parsing-Categorization
+
+blog post: https://medium.com/@611noorsaeed/building-resume-screening-app-resume-screening-with-machine-learning-job-recommendations-b1adc6b15cad
+
+
 # Introduction:
 
 In the digital age, the recruitment process has undergone a significant transformation, thanks to advancements in machine learning and artificial intelligence. One such revolutionary application is in resume screening, where machine learning algorithms are utilized to automate and enhance the candidate selection process. In this post, we delve into an end-to-end project that leverages machine learning techniques to categorize resumes, provide job recommendations, and extract vital information seamlessly.
